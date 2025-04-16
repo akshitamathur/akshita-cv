@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@200;300;400;500;700;800;900&display=swap');
+.App {
+  
+}
+
+.App-header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column; 
+  justify-content: center;
+}
+.tile-dark{
+  background-color: #344243;
+  padding: 5rem !important;
+}
+.tile-light{
+  background-color: #718681;
+}
+
+.App-introtile{
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+
+
